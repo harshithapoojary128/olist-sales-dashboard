@@ -2,9 +2,9 @@
 
 An end-to-end data analytics project that transforms the Olist Brazilian E-Commerce dataset into actionable business insights using SQL (PostgreSQL), Python, and Tableau.
 
-**Live Dashboard:** https://public.tableau.com/app/profile/harshitha.poojary1281/viz/OlistE-CommerceSalesDashboard_17879158552020/SalesOverview
+**[Live Dashboard →](#)** *(https://public.tableau.com/views/OlistE-CommerceSalesDashboard_17879158552020/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
-! [Dashboard Screenshot](images/Sales Overview.png)
+![Dashboard overview](image/sales_overview.png)
 
 ---
 
