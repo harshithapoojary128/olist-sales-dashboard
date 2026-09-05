@@ -4,7 +4,7 @@ An end-to-end data analytics project that transforms the Olist Brazilian E-Comme
 
 **Live Dashboard:** https://public.tableau.com/app/profile/harshitha.poojary1281/viz/OlistE-CommerceSalesDashboard_17879158552020/SalesOverview
 
-![Dashboard Screenshot](images/Sales Overview.png)
+! [Dashboard Screenshot](images/Sales Overview.png)
 
 ---
 
